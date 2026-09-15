@@ -1,0 +1,9 @@
+This is how you run your Streamlit
+
+python -m pip install streamlit
+
+
+python -m streamlit --version
+
+
+python -m streamlit run app.py
